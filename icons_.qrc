@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/nome10.png</file>
+    <file>icons/nome30.png</file>
+    <file>icons/menu.png</file>
+    <file>icons/ln4.png</file>
+    <file>icons/ln3.png</file>
+    <file>icons/logo.png</file>
+    <file>icons/ln2.png</file>
+    <file>icons/logo_nome.png</file>
+    <file>icons/nome.png</file>
+  </qresource>
+</RCC>
